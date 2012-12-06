@@ -59,7 +59,7 @@ The following are 3rd party libraries or code which is integrated into this proj
 [SlimMath]			http://code.google.com/p/slimmath/
 [Awesomium]	*		http://awesomium.com
 
-* As this project has commercial restrictions on the Awesomium web library, you will need to but a license if you wish to profit from Ubi Displays and make over a certain amount of money.  If you have read their terms and conditions and are in and doubt, please email me for more information.
+* As this project has commercial restrictions on the Awesomium web library, you will need to buy a license if you wish to profit from Ubi Displays and make over a certain amount of money.  If you have read their terms and conditions and are in and doubt, please email me for more information.
 
 
 The following are resources and public domain code snippts which are were useful in creating this software.
