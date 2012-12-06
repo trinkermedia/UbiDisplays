@@ -1,0 +1,12 @@
+﻿<Window x:Class="UbiDisplays.Interface.Controls.LogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ubicontrols="clr-namespace:UbiDisplays.Interface.Controls"
+        Title="Ubi Displays Log Window" Height="329" Width="544" Icon="/UbiDisplays;component/Interface/Images/bug.png">
+    <Grid>
+        <ubicontrols:LogViewer></ubicontrols:LogViewer>
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Height="22" Margin="12" Click="PinWindow" Name="_PinButton" ToolTip="Pin this window above all the other windows.">
+            <Image Source="/UbiDisplays;component/Interface/Images/attach.png" />
+        </Button>
+    </Grid>
+</Window>

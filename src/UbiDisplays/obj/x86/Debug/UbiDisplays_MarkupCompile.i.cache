@@ -1,0 +1,20 @@
+﻿UbiDisplays
+
+
+winexe
+C#
+.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\
+UbiDisplays
+none
+false
+DEBUG;TRACE
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\App.xaml
+141379237261
+11191835781
+711748560580
+16-952001090
+ImportExport.xaml;Interface\Controls\BrushTable.xaml;Interface\Controls\ExplanationPanel.xaml;Interface\Controls\HintForm.xaml;Interface\Controls\KinectConrol.xaml;Interface\Controls\LogViewer.xaml;Interface\Controls\LogWindow.xaml;Interface\Controls\Monitor.xaml;Interface\Controls\Projector.xaml;Interface\Controls\Renderer.xaml;Interface\Controls\SurfaceEditor.xaml;Interface\Controls\SurfaceListItem.xaml;Interface\Controls\SurfaceView.xaml;MainWindow.xaml;
+
+True
+

@@ -1,0 +1,681 @@
+﻿[1123/133606:INFO:CONSOLE(66)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_LikeButton.html (66)
+[1123/133803:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1126/112319:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1126/112438:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1126/112748:INFO:CONSOLE(124)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (124)
+[1126/112757:INFO:CONSOLE(124)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (124)
+[1126/113246:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1126/113333:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1126/113526:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Flash%20Key%20Displays/transient_api.js (1663)
+[1126/160348:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of null", source:  (1)
+[1126/160354:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1126/160355:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1126/160434:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1126/161443:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1127/154931:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1127/155820:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/183837:INFO:CONSOLE(1648)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/MUM2012/src/transient_api.js (1648)
+[1128/183912:INFO:CONSOLE(1648)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/MUM2012/src/transient_api.js (1648)
+[1128/183941:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/183956:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/184004:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/184004:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/184007:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/184007:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/184036:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/184036:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/184138:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/191048:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/191049:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/191049:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/191051:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/191051:INFO:CONSOLE(125)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/example.html (125)
+[1128/205833:INFO:CONSOLE(67)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_LikeButton.html (67)
+[1128/210321:INFO:CONSOLE(66)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_LikeButton.html (66)
+[1128/210333:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/210358:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/212835:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/213040:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/213328:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/213329:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of null", source:  (1)
+[1128/213342:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/214439:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/214531:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/220052:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/220129:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/220152:INFO:CONSOLE(66)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_LikeButton.html (66)
+[1128/220214:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220214:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1128/220229:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/220241:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1128/220246:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/220319:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1128/220851:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/221626:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/221755:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1128/222054:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1129/114454:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/115223:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115223:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115223:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115251:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115254:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115254:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115254:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115304:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115304:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115307:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115308:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115309:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115309:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115343:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115343:INFO:CONSOLE(93)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (93)
+[1129/115344:INFO:CONSOLE(187)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/BigBang/Desktop/Data/P5%20Matt%20Fisher/example.html (187)
+[1129/115405:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_ControlSwitch.html (27)
+[1129/115508:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/115514:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115514:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115627:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115627:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115627:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115627:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115627:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/115629:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/115631:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/115649:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115649:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115649:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115649:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/115650:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/115651:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/115652:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/115655:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/115656:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/115657:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/115705:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/115921:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120013:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120040:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120343:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/120346:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120346:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120557:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/120557:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120557:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120557:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120557:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120558:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120558:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120558:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120558:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120559:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/120603:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120603:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120605:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120606:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120659:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120659:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120723:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120723:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120723:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120723:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/120725:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120725:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120728:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120728:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/120731:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/120731:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/121043:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/121043:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121043:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121043:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121043:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121044:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121044:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121044:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121044:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121046:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/121143:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/121146:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121146:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121150:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/121152:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/121155:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/121155:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/121157:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/121158:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/121159:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/121200:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/121242:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/121242:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/121318:INFO:CONSOLE(1)] "Uncaught ReferenceError: True is not defined", source:  (1)
+[1129/121318:INFO:CONSOLE(1)] "Uncaught ReferenceError: False is not defined", source:  (1)
+[1129/122857:INFO:CONSOLE(27)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/VID_Coffee.html (27)
+[1129/122902:INFO:CONSOLE(1663)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/John/Desktop/Transient%20Displays/Ubi%20Displays/displays/transient_api.js (1663)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/122902:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1129/124647:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/130603:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/130748:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/130811:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/130813:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/130830:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/130835:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/130835:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/130835:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/130841:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/130841:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/131400:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/132013:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/132013:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/132112:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/132122:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/132122:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/132148:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/132148:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/132243:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/132329:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/133035:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/133639:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/133648:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/133956:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/134103:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/134248:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/134430:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/134447:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/134447:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134447:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134447:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134447:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134448:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134448:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134448:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134448:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134449:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/134804:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/134831:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/134831:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134831:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/134835:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/134835:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/134835:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/134835:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/134842:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/134842:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/134842:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/135042:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/135640:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135640:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/135643:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/135717:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/135849:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/135915:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/140124:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140136:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140224:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140600:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140624:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140705:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140800:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/140807:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140807:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/140810:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/140810:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140812:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/140812:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140813:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/140813:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/140913:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141212:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/141259:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141317:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/141317:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141323:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141324:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141326:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141432:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/141609:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141700:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of null", source:  (1)
+[1204/141719:INFO:CONSOLE(293)] "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1003.1 Safari/535.19 Awesomium/1.7.1 | WebGL 1.0 (OpenGL ES 2.0 Chromium) | WebKit | WebKit WebGL | WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)", source: http://lights.elliegoulding.com/js/Three.js (293)
+[1204/141719:INFO:CONSOLE(293)] "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1003.1 Safari/535.19 Awesomium/1.7.1 | WebGL 1.0 (OpenGL ES 2.0 Chromium) | WebKit | WebKit WebGL | WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)", source: http://lights.elliegoulding.com/js/Three.js (293)
+[1204/141826:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/141826:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/141826:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/141826:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/141826:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/141826:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142107:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/142107:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/142115:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/142126:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/142136:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/142808:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/142808:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/143128:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/143544:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/143544:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/143655:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/143709:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/143709:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/143714:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/143714:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/143752:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/143752:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/143753:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/143753:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/143825:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/143825:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/143825:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/144640:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/144755:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/145704:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/145704:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/145712:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/145712:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/145712:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/145808:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/145828:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/145828:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/145828:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/150405:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/150405:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/150405:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/150422:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/150450:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/150552:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/150600:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/150604:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/150605:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/150605:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/151435:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/151435:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/151449:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/151449:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/151450:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/151450:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/151528:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/151718:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/151718:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/151845:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/151947:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/151950:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/152006:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/152537:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/152537:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/152537:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/152606:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/152606:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/152606:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/155949:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/155949:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/155949:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/155958:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/155958:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/155958:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/155958:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/160020:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/161437:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/161437:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/161449:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/161449:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/161449:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/161449:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/164133:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/164133:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/164146:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/164146:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/164954:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/164954:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/164954:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/165001:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165001:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/165040:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165703:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/165703:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/165703:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165707:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/165707:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/165707:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165739:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/165756:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/165811:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165827:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165834:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165951:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/165951:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170213:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170213:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170225:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/170225:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/170225:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170225:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170242:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170243:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/170243:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/170244:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170244:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/170244:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170244:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170244:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170244:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170306:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170306:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170416:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170416:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170416:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/170416:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170417:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170434:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170434:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: https://welcome.uni-ulm.de/capo/ (1)
+[1204/170502:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/170518:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170518:INFO:CONSOLE(0)] "Unable to post message to http://www.youtube.com. Recipient has origin file://.
+", source:  (0)
+[1204/170705:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/170758:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170846:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170846:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170855:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/170855:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/170855:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/170855:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/170903:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/172123:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/172123:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/172123:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/172147:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/172147:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/172147:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/172251:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/172352:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/172530:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/172824:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/172838:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/173022:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/173022:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/173022:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/173022:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/173022:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/173051:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/173052:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/173052:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/173418:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/173934:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/173941:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/173947:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/173947:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174007:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174007:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174139:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174139:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174145:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/174145:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174145:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174214:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/174305:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174631:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/174631:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174708:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174815:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174815:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174819:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/174819:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174917:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/174925:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/175005:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180149:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180149:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/180149:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180221:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180221:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/180245:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/180617:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180617:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180621:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180621:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/180621:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180703:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180708:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180708:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180708:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/180708:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/180945:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/180945:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/180945:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181000:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/181000:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181037:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181043:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/181123:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181208:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/181208:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181309:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181416:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/181800:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/181800:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/182559:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/182559:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/182559:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/182830:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/182830:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/183034:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/183034:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/183049:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/183142:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/183157:INFO:CONSOLE(15)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Control%20Switch.html (15)
+[1204/183202:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/183214:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/185120:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/185127:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)
+[1204/185230:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/185230:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/185232:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/185521:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/185534:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1204/185947:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/185947:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/185954:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/185954:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[1204/185954:INFO:CONSOLE(1660)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/js/ubidisplays-multitouch-0.8.js (1660)
+[1204/185954:INFO:CONSOLE(131)] "Uncaught ReferenceError: Surface is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Swap%20and%20Audio.html (131)
+[1204/190009:INFO:CONSOLE(34)] "Uncaught ReferenceError: Authority is not defined", source: file:///C:/Users/Infolab/Desktop/Ubi%20Displays/Ubi%20Displays/displays/W%20Like%20Button.html (34)

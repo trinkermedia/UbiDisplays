@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="UbiDisplays.Interface.Controls.SurfaceListItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             BorderThickness="1"
+             Background="White"
+             BorderBrush="LightBlue"
+             mc:Ignorable="d" 
+             d:DesignHeight="35" d:DesignWidth="139">
+    <DockPanel>
+        <Button Margin="1 0 0 0" Width="15" Click="ToggleDebugView" ToolTip="Show debug view.  Use this to help position a display.">
+            <Image Name="_imgToggleDebug" Source="/UbiDisplays;component/Interface/Images/shading.png" />
+        </Button>
+        <Button Margin="1 0 0 0" Width="15" Click="RotateSurface" ToolTip="Rotate Surface.">
+            <Image Source="/UbiDisplays;component/Interface/Images/shape_rotate_anticlockwise.png" />
+        </Button>
+        <Button Margin="1 0 0 0" Width="15" Click="DeleteSurface" ToolTip="Delete Surface.">
+            <Image Source="/UbiDisplays;component/Interface/Images/cancel.png" />
+        </Button>
+        <Label VerticalContentAlignment="Center" MouseDoubleClick="Label_MouseDoubleClick">
+            <TextBlock TextTrimming="CharacterEllipsis" Name="_lblName">Surface Name</TextBlock>
+        </Label>
+    </DockPanel>
+</UserControl>

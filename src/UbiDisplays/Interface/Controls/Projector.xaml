@@ -1,0 +1,32 @@
+﻿<Window x:Class="UbiDisplays.Interface.Controls.Projector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:UbiDisplays.Interface.Controls"
+        
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        MouseMove="Window_MouseMove"
+        MouseLeftButtonUp="Window_MouseLeftButtonUp"
+        
+        Title="Projector Output" Height="300" Width="300"
+        WindowStyle="None" Background="Black">
+    <Grid>
+        <my:Renderer x:Name="Renderer"></my:Renderer>
+        <Canvas>
+            <Canvas Name="uctlFollow" ClipToBounds="False" Width="100" Height="100" MouseUp="HandleCalibrationMouseUp" MouseDown="HandleCalibrationMouseDown" MouseMove="HandleCalibrationMouseMove">
+                <Canvas.RenderTransform>
+                    <TranslateTransform X="-50" Y="-50" />
+                </Canvas.RenderTransform>
+                <Grid>
+                    <Ellipse Width="100" Height="100" Fill="White"/>
+
+                    <Line X1="50" Y1="100" X2="50" Y2="0" Stroke="Black" StrokeThickness="10" />
+                    <Line X1="0" Y1="50" X2="100" Y2="50" Stroke="Black" StrokeThickness="10" />
+
+                    <Ellipse Width="100" Height="100" Stroke="Red" StrokeThickness="5"/>
+                    <Ellipse Width="7" Height="7" Fill="DarkRed" Stroke="Red" StrokeThickness="2" />
+
+                </Grid>
+            </Canvas>
+        </Canvas>
+    </Grid>
+</Window>

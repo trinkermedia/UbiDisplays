@@ -1,0 +1,234 @@
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\BrushTable.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\MainWindow.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\App.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.cache
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.lref
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\UbiDisplays.exe
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\UbiDisplays.pdb
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays.g.resources
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays.Properties.Resources.resources
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays.exe
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\UbiDisplays.pdb
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\UbiDisplays.exe.config
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Microsoft.Kinect.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Microsoft.Kinect.xml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\ImportExport.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\ImportExport.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Awesomium.Core.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Awesomium.Core.xml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\avcodec-53.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\avformat-53.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\avutil-51.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\awesomium.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\icudt.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\libEGL.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\libGLESv2.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\awesomium_process
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\inspector.pak
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\bin\Debug\PresentationCore.dll
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.g.cs
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.baml
+C:\Users\John\Desktop\UbiDisplays Repo\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\icudt.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe.config
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\PresentationCore.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.xml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.xml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avcodec-53.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avformat-53.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avutil-51.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\libEGL.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\libGLESv2.dll
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium_process
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\inspector.pak
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\BrushTable.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_Content.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.cache
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.lref
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.baml
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.g.resources
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.Properties.Resources.resources
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.exe
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.pdb
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.pdb
+C:\Users\John\Desktop\Transient Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe.config
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.exe
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.pdb
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.pdb
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\PresentationCore.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.xml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\avcodec-53.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\avformat-53.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\avutil-51.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\icudt.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\libEGL.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\libGLESv2.dll
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium_process
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\bin\Debug\inspector.pak
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\BrushTable.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_Content.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.cache
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.lref
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.baml
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.g.resources
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.Properties.Resources.resources
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Infolab\Desktop\Ubi All You Need\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe.config
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.exe
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.pdb
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.exe
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\UbiDisplays.pdb
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\PresentationCore.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Core.xml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avcodec-53.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avformat-53.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\avutil-51.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\icudt.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\libEGL.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\libGLESv2.dll
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\awesomium_process
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\bin\Debug\inspector.pak
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\BrushTable.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\ExplanationPanel.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\KinectConrol.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Monitor.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Renderer.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceEditor.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceListItem.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\SurfaceView.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\App.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_Content.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.cache
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays_MarkupCompile.lref
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\ImportExport.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\HintForm.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogViewer.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\LogWindow.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\Interface\Controls\Projector.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\MainWindow.baml
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.g.resources
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\UbiDisplays.Properties.Resources.resources
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Infolab\Desktop\Ubi Displays\Ubi Displays\src\UbiDisplays\obj\x86\Debug\GenerateResource.write.1.tlog

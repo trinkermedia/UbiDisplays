@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="UbiDisplays.Interface.Controls.Monitor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             x:Name="_MonitorUC"
+             d:DesignHeight="131" d:DesignWidth="204" Margin="2">
+
+    <Grid>
+        <Border BorderBrush="Gray" CornerRadius="2" BorderThickness="2">
+            <Border BorderBrush="#304884" BorderThickness="2">
+                
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="{Binding Path=LightColour, ElementName=_MonitorUC}" Offset="0.0"  x:Name="gs0"/>
+                        <GradientStop Color="{Binding Path=Colour, ElementName=_MonitorUC}" Offset="1.0"  x:Name="gs1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                
+                <Border.Triggers>
+                    <!-- Fade the colour in. -->
+                    <EventTrigger RoutedEvent="Border.MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="gs0" Storyboard.TargetProperty="Offset" To="0.5" Duration="0:0:0.5" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+
+                    <!-- Fade the colour out. -->
+                    <EventTrigger RoutedEvent="Border.MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="gs0" Storyboard.TargetProperty="Offset" To="0.0" Duration="0:0:0.5" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+
+                    <!-- When we click down. -->
+                    <EventTrigger RoutedEvent="Rectangle.MouseLeftButtonDown">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="gs0" Storyboard.TargetProperty="Offset" To="0.6" Duration="0:0:0.2" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                    
+                </Border.Triggers>
+                
+                <Grid x:Name="_Container">
+                    <!--<Label x:Name="_Label" Foreground="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>-->
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>

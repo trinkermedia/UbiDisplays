@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D33CCDD3-B3CF-4E34-B7A9-6303272B5974}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UbiDisplays</RootNamespace>
+    <AssemblyName>UbiDisplays</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Awesomium.Core, Version=1.6.4.0, Culture=neutral, PublicKeyToken=e1a0d7c8071a5214, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\awesomium\Awesomium.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Awesomium.Windows.Controls, Version=1.6.4.0, Culture=neutral, PublicKeyToken=7a34e179b8b61c39, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\awesomium\Awesomium.Windows.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=1.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v1.6\Assemblies\Microsoft.Kinect.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ImportExport.xaml.cs">
+      <DependentUpon>ImportExport.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\EnumToObjectConverter.cs" />
+    <Compile Include="Interface\Controls\Glass.cs" />
+    <Compile Include="Interface\Controls\HintForm.xaml.cs">
+      <DependentUpon>HintForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\KinectConrol.xaml.cs">
+      <DependentUpon>KinectConrol.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\LogViewer.xaml.cs">
+      <DependentUpon>LogViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\LogWindow.xaml.cs">
+      <DependentUpon>LogWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\SurfaceEditor.xaml.cs">
+      <DependentUpon>SurfaceEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\SurfaceListItem.xaml.cs">
+      <DependentUpon>SurfaceListItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\SurfaceView.xaml.cs">
+      <DependentUpon>SurfaceView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Authority.cs" />
+    <Compile Include="Model\DisplayAPI\CloseDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\CloseTargetDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\LockPC.cs" />
+    <Compile Include="Model\DisplayAPI\SwapTargetDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\SwapDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\MoveTargetDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\MoveDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\OpenDisplay.cs" />
+    <Compile Include="Model\DisplayAPI\PlaySound.cs" />
+    <Compile Include="Model\DisplayAPI\SurfaceInfo.cs" />
+    <Compile Include="Model\DisplayAPI\Cuboid.cs" />
+    <Compile Include="Model\Display.cs" />
+    <Compile Include="Model\DisplayAPI\IRequest.cs" />
+    <Compile Include="Model\DisplayAPI\JSExtensions.cs" />
+    <Compile Include="Model\DisplayAPI\LowestPointCube.cs" />
+    <Compile Include="Model\DisplayAPI\SurfaceList.cs" />
+    <Compile Include="Model\IResource.cs" />
+    <Compile Include="Model\ISpatialQuery.cs" />
+    <Compile Include="Model\Kinect.cs" />
+    <Compile Include="Model\Log.cs" />
+    <Compile Include="Model\Surface.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Utilities\BufferedStat.cs" />
+    <Compile Include="Utilities\ColourUtils.cs" />
+    <Compile Include="Utilities\DoubleBuffer.cs" />
+    <Compile Include="Utilities\FPSCounter.cs" />
+    <Compile Include="Utilities\GrahamScan.cs" />
+    <Compile Include="Utilities\MonitorDetection.cs" />
+    <Compile Include="Utilities\Pair.cs" />
+    <Compile Include="Utilities\Polygon.cs" />
+    <Compile Include="Utilities\RatcliffPlane.cs" />
+    <Compile Include="Utilities\RotatingCalipers.cs" />
+    <Compile Include="Utilities\RunningStat.cs" />
+    <Compile Include="Utilities\SlimMath\BoundingBox.cs" />
+    <Compile Include="Utilities\SlimMath\BoundingFrustum.cs" />
+    <Compile Include="Utilities\SlimMath\BoundingSphere.cs" />
+    <Compile Include="Utilities\SlimMath\Collision.cs" />
+    <Compile Include="Utilities\SlimMath\Enums.cs" />
+    <Compile Include="Utilities\SlimMath\Gjk.cs" />
+    <Compile Include="Utilities\SlimMath\MathHelper.cs" />
+    <Compile Include="Utilities\SlimMath\Matrix.cs" />
+    <Compile Include="Utilities\SlimMath\Plane.cs" />
+    <Compile Include="Utilities\SlimMath\Quaternion.cs" />
+    <Compile Include="Utilities\SlimMath\Ray.cs" />
+    <Compile Include="Utilities\SlimMath\Utilities.cs" />
+    <Compile Include="Utilities\SlimMath\Vector2.cs" />
+    <Compile Include="Utilities\SlimMath\Vector3.cs" />
+    <Compile Include="Utilities\SlimMath\Vector4.cs" />
+    <Compile Include="Utilities\Warper.cs" />
+    <Page Include="ImportExport.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\BrushTable.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Interface\Controls\ExplanationPanel.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Interface\Controls\HintForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\KinectConrol.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\LogViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\LogWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\Monitor.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Interface\Controls\Projector.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Interface\Controls\Renderer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Interface\Controls\SurfaceEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\SurfaceListItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Interface\Controls\SurfaceView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interface\Controls\ExplanationPanel.xaml.cs">
+      <DependentUpon>ExplanationPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\Monitor.xaml.cs">
+      <DependentUpon>Monitor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\PanZoom.cs" />
+    <Compile Include="Interface\Controls\Projector.xaml.cs">
+      <DependentUpon>Projector.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Controls\Renderer.xaml.cs">
+      <DependentUpon>Renderer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\mouse_pointer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\kinect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bullet_blue.png" />
+    <Resource Include="Interface\Images\bullet_green.png" />
+    <Resource Include="Interface\Images\bullet_orange.png" />
+    <Resource Include="Interface\Images\bullet_red.png" />
+    <Resource Include="Interface\Images\bullet_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\DebugImage.png" />
+    <Resource Include="Interface\Images\littlerotate.png" />
+    <Resource Include="Interface\Images\little_delete.png" />
+    <Resource Include="Interface\Images\magnifier.png" />
+    <Resource Include="Interface\Images\Projector.png" />
+    <Resource Include="Interface\Images\shape_square.png" />
+    <Resource Include="Interface\Images\shape_square_add.png" />
+    <Resource Include="Interface\Images\shape_square_delete.png" />
+    <Resource Include="Interface\Images\shape_square_edit.png" />
+    <Resource Include="Interface\Images\table_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\brick.png" />
+    <Resource Include="Interface\Images\monitor.png" />
+    <Resource Include="Interface\Images\shape_handles.png" />
+    <Resource Include="Interface\Images\wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\monitor_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bricks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\arrow_refresh_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\weather_sun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\weather_clouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\shape_rotate_anticlockwise.png" />
+    <Resource Include="Interface\Images\shape_rotate_clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\Open.png" />
+    <Resource Include="Interface\Images\Save.png" />
+    <Resource Include="Interface\Images\SaveAs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bullet_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bullet_wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\computer.png" />
+    <Resource Include="Interface\Images\computer_delete.png" />
+    <Resource Include="Interface\Images\computer_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bullet_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\chrome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\script_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\application_double.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\lightbulb.png" />
+    <Resource Include="Interface\Images\lightbulb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\shading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\bullet_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\Images\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MultiTouchInject.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
