@@ -667,7 +667,10 @@ else {  }"; // Authority.log('" + sFunction + @" function not found.');
             if (pValue.IsString)
                 return EncodeJsString(pValue.ToString());
 
-            if (pValue.IsDouble || pValue.IsInteger || pValue.IsNull || pValue.IsNumber || pValue.IsUndefined)
+            if (pValue.IsDouble)
+                return ((double)pValue).ToString(System.Globalization.CultureInfo.InvariantCulture); // fixes it not working on german systems
+
+            if (pValue.IsInteger || pValue.IsNull || pValue.IsNumber || pValue.IsUndefined)
                 return pValue.ToString();
 
             if (pValue.IsBoolean)
